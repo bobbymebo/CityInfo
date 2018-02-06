@@ -36,21 +36,21 @@ namespace CityInfo.API
                 new CityDto()
                 {
                     Id = 2,
-                    Name = "Sofia",
-                    Description = "The dirty one",
+                    Name = "Seattle",
+                    Description = "The crowded one",
                     PointsOfInterest = new List<PointOfInterestDto>()
                     {
                         new PointOfInterestDto()
                         {
                             Id = 3,
-                            Name = "Zala Arena",
-                            Description = "Golqma zala, golqmo neshto"
+                            Name = "Space Needle",
+                            Description = "Good place to visit"
                         },
                         new PointOfInterestDto()
                         {
                             Id = 4,
-                            Name = "YHCC",
-                            Description = "Pylno s prychki"
+                            Name = "Century Link Field",
+                            Description = "Home of the Seahawks"
                         }
                     }
                 },
